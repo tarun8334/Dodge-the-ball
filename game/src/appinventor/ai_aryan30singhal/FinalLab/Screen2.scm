@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"Screen2","$Type":"Form","$Version":"30","AlignHorizontal":"2","AppName":"FinalLab","BackgroundColor":"&H00FFFFFF","Title":"Screen2","Uuid":"0","$Components":[{"$Name":"HorizontalArrangement2","$Type":"HorizontalArrangement","$Version":"4","AlignHorizontal":"2","BackgroundColor":"&H00FFFFFF","Uuid":"907024900","$Components":[{"$Name":"Image2","$Type":"Image","$Version":"6","Clickable":"True","Height":"-1010","Width":"-1010","Picture":"index.png","Uuid":"-1854512246"}]},{"$Name":"HorizontalArrangement1","$Type":"HorizontalArrangement","$Version":"4","AlignHorizontal":"3","AlignVertical":"2","BackgroundColor":"&H00FFFFFF","Height":"-2","Width":"-2","Uuid":"-1105068029","$Components":[{"$Name":"Image1","$Type":"Image","$Version":"6","Clickable":"True","Height":"-1010","Width":"-1020","Picture":"674132.png","Uuid":"-1296417728"}]}]}}
+|#
